@@ -1,0 +1,5 @@
+.vscode/
+.venv/
+de_playground/
+__pycache__/
+*.csv
